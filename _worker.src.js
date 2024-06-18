@@ -27,7 +27,7 @@ let RproxyIP = 'false';
 
 let addressesapi = [];
 let addressescsv = [];
-let DLS = 8;
+let DLS = 15;
 
 let FileName = 'epeius';
 let BotToken ='';
